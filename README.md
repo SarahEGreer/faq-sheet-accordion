@@ -1,6 +1,6 @@
 # FAQs Accordion
 ### This is a project challenge from FrontEnd Mentor
-### Live code: 
+### Live code: https://faq-accordion-fm-challenge.netlify.app/
 
 ## Overview
 A FAQ display that shows and hides answers to questions when the user clicks the plus or minus icon.
